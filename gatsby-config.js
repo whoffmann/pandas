@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/pandas",
   siteMetadata: {
     title: `Pandas Eating Lots`,
   },
